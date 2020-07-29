@@ -1,8 +1,13 @@
-# minhaadega
+# Minha Adega
 
-Adega virtual 
+Adega virtual para sommeliers, entusiastas e amantes do vinho
+
+## Projeto visual
+
+- [Projeto visual disponibilizado no Figma](https://www.figma.com/file/3gqdVQUbBFCK4mK7iPdC0O/Minha-adega?node-id=0%3A1)
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
